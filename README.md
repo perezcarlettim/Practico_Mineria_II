@@ -34,23 +34,7 @@ tp1-kdd-vino-regresion/
 6. **Conocimiento / Selección del modelo** — tabla comparativa, modelo final y conclusiones.
 7. **Preguntas de análisis (20–24)** — con evidencia empírica en el código.
 
-## Cómo ejecutarlo
 
-### Opción A: Google Colab
-1. Abrir el notebook en Colab (`Archivo > Abrir cuaderno > GitHub` y pegar la URL del repositorio).
-2. `Entorno de ejecución > Ejecutar todo`.
-
-### Opción B: Local
-```bash
-git clone https://github.com/<tu-usuario>/KDD_Vino_Regresion.git
-cd KDD_Vino_Regresion
-
-python -m venv .venv
-source .venv/bin/activate        # En Windows: .venv\Scripts\activate
-
-pip install -r requirements.txt
-jupyter notebook notebooks/KDD_Vino_Regresion.ipynb
-```
 
 ## Tecnologías
 
