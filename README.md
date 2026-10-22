@@ -18,7 +18,7 @@ tp1-kdd-vino-regresion/
 │   └── TP1_KDD_Vino_Regresion.ipynb   # Código completo y comentado de las 6 etapas KDD
 ├── docs/
 │   └── TP1_Evaluativo_2026.pdf        # Consigna del trabajo práctico
-├── informe/                           # Informe (.docx) generado por el notebook (máx. 4 páginas)
+├── informe/                           # Informe (.docx) generado por el notebook
 ├── requirements.txt                   # Dependencias de Python
 ├── .gitignore
 └── README.md
@@ -60,5 +60,4 @@ Python · pandas · NumPy · scikit-learn · matplotlib · seaborn · python-doc
 
 ## Autor/a
 
-- Nombre: _completar_
-- Comisión: _completar_
+- Nombre: Perez Carletti, Martin
