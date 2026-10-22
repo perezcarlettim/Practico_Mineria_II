@@ -13,15 +13,15 @@ Estimación del puntaje de calidad (`quality`) de vinos tintos *Vinho Verde* a p
 ## Estructura del repositorio
 
 ```
-tp1-kdd-vino-regresion/
-├── notebooks/
-│   └── KDD_Vino_Regresion.ipynb   # Código completo y comentado de las 6 etapas KDD
+KDD_Vino_Regresion
 ├── docs/
 │   └── TP1_Evaluativo_2026.pdf        # Consigna del trabajo práctico
+├── notebooks/
+│   └── KDD_Vino_Regresion.ipynb       # Código completo y comentado de las 6 etapas KDD
 ├── Informe_KDD_Vino.pdf               # Informe del analisis
 ├── requirements.txt                   # Dependencias de Python
-├── .gitignore
-└── README.md
+├── README.md
+└── .gitignore
 ```
 
 ## Etapas KDD cubiertas
