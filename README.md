@@ -18,7 +18,7 @@ tp1-kdd-vino-regresion/
 │   └── KDD_Vino_Regresion.ipynb   # Código completo y comentado de las 6 etapas KDD
 ├── docs/
 │   └── TP1_Evaluativo_2026.pdf        # Consigna del trabajo práctico
-├── informe/                           # Informe (.docx) generado por el notebook
+├── Informe_KDD_Vino.pdf               # Informe del analisis
 ├── requirements.txt                   # Dependencias de Python
 ├── .gitignore
 └── README.md
