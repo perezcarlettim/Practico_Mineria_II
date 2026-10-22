@@ -15,7 +15,7 @@ Estimación del puntaje de calidad (`quality`) de vinos tintos *Vinho Verde* a p
 ```
 tp1-kdd-vino-regresion/
 ├── notebooks/
-│   └── TP1_KDD_Vino_Regresion.ipynb   # Código completo y comentado de las 6 etapas KDD
+│   └── KDD_Vino_Regresion.ipynb   # Código completo y comentado de las 6 etapas KDD
 ├── docs/
 │   └── TP1_Evaluativo_2026.pdf        # Consigna del trabajo práctico
 ├── informe/                           # Informe (.docx) generado por el notebook
@@ -42,17 +42,15 @@ tp1-kdd-vino-regresion/
 
 ### Opción B: Local
 ```bash
-git clone https://github.com/<tu-usuario>/tp1-kdd-vino-regresion.git
-cd tp1-kdd-vino-regresion
+git clone https://github.com/<tu-usuario>/KDD_Vino_Regresion.git
+cd KDD_Vino_Regresion
 
 python -m venv .venv
 source .venv/bin/activate        # En Windows: .venv\Scripts\activate
 
 pip install -r requirements.txt
-jupyter notebook notebooks/TP1_KDD_Vino_Regresion.ipynb
+jupyter notebook notebooks/KDD_Vino_Regresion.ipynb
 ```
-
-> La última celda del notebook genera `Informe_TP1_KDD_Vino.docx` con los resultados reales. Moverlo a la carpeta `informe/` antes de hacer el commit.
 
 ## Tecnologías
 
