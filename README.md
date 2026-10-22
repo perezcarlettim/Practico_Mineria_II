@@ -1,4 +1,4 @@
-##Proceso KDD: Regresión Lineal vs. Árbol de Decisión
+## Proceso KDD: Regresión Lineal vs. Árbol de Decisión
 
 **Minería de Datos II · ITSE · Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial**
 
